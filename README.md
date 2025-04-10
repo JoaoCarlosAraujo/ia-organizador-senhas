@@ -13,10 +13,3 @@ Este é um projeto simples de Inteligência Artificial desenvolvido em Python. A
 
 ---
 
-## 🚀 Como executar
-
-### 1. Clone o repositório
-
-```bash
-git clone https://github.com/JoaoCarlosAraujo/ia-perguntas-python.git
-cd ia-perguntas-python
